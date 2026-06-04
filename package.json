@@ -1,5 +1,5 @@
 {
-  "name": "@onekeyfe/react-native-tab-page-view",
+  "name": "@unionkeyfe/react-native-tab-page-view",
   "version": "1.1.3",
   "description": "React Native Tab Page View",
   "main": "lib/commonjs/index",
@@ -38,13 +38,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/OneKeyHQ/react-native-tab-page-view",
-  "author": "OneKey <OneKey@so> (https://github.com/OneKeyHQ)",
+  "repository": "https://github.com/UnionKeyHQ/react-native-tab-page-view",
+  "author": "UnionKeyHQ (https://github.com/UnionKeyHQ)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OneKeyHQ/react-native-tab-page-view/issues"
+    "url": "https://github.com/UnionKeyHQ/react-native-tab-page-view/issues"
   },
-  "homepage": "https://github.com/OneKeyHQ/react-native-tab-page-view#readme",
+  "homepage": "https://github.com/UnionKeyHQ/react-native-tab-page-view#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
